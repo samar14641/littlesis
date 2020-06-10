@@ -1,0 +1,95 @@
+{
+    "Walmart": {
+        "id": 1,
+        "name": "Walmart",
+        "blurb": "Retail merchandising",
+        "summary": null,
+        "website": "www.corporate.walmart.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-02T13:47:42Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 71-0415188",
+            "Wal Mart",
+            "Wal-Mart",
+            "Wal-Mart Stores Inc",
+            "Wal-Mart Stores, Inc.",
+            "Walmart"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Wal-Mart Stores, Inc.",
+                "name_nick": "WAL-MART",
+                "employees": null,
+                "revenue": 482130000000,
+                "fedspending_id": "336092",
+                "lda_registrant_id": "40305"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "WMT",
+                "sec_cik": 104169
+            }
+        }
+    },
+    "ExxonMobil": {
+        "id": 2,
+        "name": "ExxonMobil",
+        "blurb": "Oil and gas exploration, production, and marketing",
+        "summary": null,
+        "website": "http://www.exxonmobil.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:32:44Z",
+        "start_date": "1882-00-00",
+        "end_date": null,
+        "aliases": [
+            "Exxon Corporation",
+            "Exxon Mobil",
+            "Exxon Mobil Corp",
+            "Exxon Mobil Corporation",
+            "ExxonMobil",
+            "IRS EIN 13-5409005",
+            "Standard Oil of New Jersey"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Exxon Mobil",
+                "name_nick": "EXXONMOBIL",
+                "employees": null,
+                "revenue": 372824000000,
+                "fedspending_id": "112538",
+                "lda_registrant_id": "14017"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "XOM",
+                "sec_cik": 34088
+            }
+        }
+    }
+}
