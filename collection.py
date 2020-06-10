@@ -7,9 +7,9 @@ from pprint import pprint
 minSleep = 0.5
 
 def simpleIterativeCollect():
-    entID = 1  # entity ID
+    entID = 150  # entity ID
     count = 0
-    maxCollect = 2  # 100
+    maxCollect = 100
     baseURL = 'https://littlesis.org/api/entities/'
     params = {'details': 'TRUE'}
 
@@ -24,6 +24,7 @@ def simpleIterativeCollect():
                 d = resp.json()['data']['attributes']
                 data[d['name']] = d
                 count += 1
+                print(count)
 
             else: 
                 print(entID, 'NOT OK', resp.status_code)
@@ -43,7 +44,7 @@ def simpleIterativeCollect():
 
     # pprint(data)    
 
-    with open(os.getcwd() + '\\Data\\collect1.json', 'w', encoding = 'utf-8')  as f:
+    with open(os.getcwd() + '\\Data\\collect150.json', 'w', encoding = 'utf-8')  as f:
         json.dump(data, f, ensure_ascii = False, indent = 4)
 
 simpleIterativeCollect()

@@ -91,5 +91,4318 @@
                 "sec_cik": 34088
             }
         }
+    },
+    "Chevron": {
+        "id": 3,
+        "name": "Chevron",
+        "blurb": "Energy Company",
+        "summary": null,
+        "website": "www.chevron.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:22:09Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Chevron",
+            "Chevron Corporation",
+            "ChevronTexaco",
+            "IRS EIN 94-0890210",
+            "Pacific Coast Oil Company",
+            "Socal",
+            "Standard Oil Company of California"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Chevron",
+                "name_nick": "CHEVRON",
+                "employees": null,
+                "revenue": 129648000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "9000"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CVX",
+                "sec_cik": 93410
+            }
+        }
+    },
+    "General Motors Company": {
+        "id": 4,
+        "name": "General Motors Company",
+        "blurb": "automobile manufacturer",
+        "summary": null,
+        "website": "www.gm.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-30T23:29:53Z",
+        "start_date": "1908-00-00",
+        "end_date": "2011-03-31",
+        "aliases": [
+            "General Motors",
+            "General Motors Company",
+            "General Motors Corporation",
+            "General Motors LLC",
+            "GM",
+            "IRS EIN 27-0756180",
+            "IRS EIN 38-0572515",
+            "Motors Liquidation Company",
+            "Old GM"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "General Motors Company",
+                "name_nick": "GEN-MOTOR",
+                "employees": null,
+                "revenue": 152356000000,
+                "fedspending_id": "127228",
+                "lda_registrant_id": "16021"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "GM",
+                "sec_cik": 1467858
+            }
+        }
+    },
+    "ConocoPhillips": {
+        "id": 5,
+        "name": "ConocoPhillips",
+        "blurb": "Texas-based oil and gas corporation",
+        "summary": null,
+        "website": "http://www.conocophillips.com/",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:27:45Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Conoco Inc.",
+            "ConocoPhillips",
+            "ConocoPhillips Holding Company",
+            "IRS EIN 01-0562944",
+            "IRS EIN 51-0370352",
+            "Phillips Petroleum"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "ConocoPhillips",
+                "name_nick": "CONOCOPHIL",
+                "employees": null,
+                "revenue": 29456000000,
+                "fedspending_id": "74268",
+                "lda_registrant_id": "31428"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "COP",
+                "sec_cik": 1163165
+            }
+        }
+    },
+    "General Electric Company": {
+        "id": 6,
+        "name": "General Electric Company",
+        "blurb": "American multinational conglomerate",
+        "summary": null,
+        "website": "www.ge.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T19:49:26Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "GE",
+            "General Electric",
+            "General Electric Company",
+            "IRS EIN 14-0689340"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "General Electric",
+                "name_nick": "GEN_ELEC",
+                "employees": null,
+                "revenue": 117385000000,
+                "fedspending_id": "127109",
+                "lda_registrant_id": "15997"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "GE",
+                "sec_cik": 40545
+            }
+        }
+    },
+    "Ford Motor Company": {
+        "id": 7,
+        "name": "Ford Motor Company",
+        "blurb": "Automobile Manufacturer",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-04T17:31:40Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Ford Motor",
+            "Ford Motor Co",
+            "Ford Motor Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Ford Motor",
+                "name_nick": "FORD",
+                "employees": null,
+                "revenue": 149558000000,
+                "fedspending_id": "119640",
+                "lda_registrant_id": "15133"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "F",
+                "sec_cik": 37996
+            }
+        }
+    },
+    "Citigroup Inc.": {
+        "id": 8,
+        "name": "Citigroup Inc.",
+        "blurb": "Major American bank",
+        "summary": null,
+        "website": "www.citigroup.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-05T19:57:03Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Citi",
+            "Citigroup",
+            "Citigroup Inc.",
+            "Commercial Credit Company",
+            "IRS EIN 52-1568099",
+            "Primerica",
+            "The Travelers Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Citigroup Inc.",
+                "name_nick": "CITIGRP",
+                "employees": null,
+                "revenue": 77492000000,
+                "fedspending_id": "66228",
+                "lda_registrant_id": "9272"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "C",
+                "sec_cik": 831001
+            }
+        }
+    },
+    "Bank of America Corporation": {
+        "id": 9,
+        "name": "Bank of America Corporation",
+        "blurb": "The largest bank holding company in the United States",
+        "summary": null,
+        "website": "www.bankofamerica.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T00:11:40Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Bank of America",
+            "Bank of America Corp",
+            "Bank of America Corporation",
+            "Bank Of America Merrill Lynch",
+            "BofA",
+            "IRS EIN 56-0906609"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Bank of America Corp",
+                "name_nick": "BOA",
+                "employees": null,
+                "revenue": 82673000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "26400"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "BAC",
+                "sec_cik": 70858
+            }
+        }
+    },
+    "AT&T, Inc.": {
+        "id": 10,
+        "name": "AT&T, Inc.",
+        "blurb": "Telecom",
+        "summary": null,
+        "website": "www.att.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T15:01:10Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "AT&T",
+            "AT&T INC",
+            "AT&T, Inc.",
+            "ATandT",
+            "IRS EIN 43-1301883",
+            "SBC Communications",
+            "SBC Communications Inc.",
+            "Southwestern Bell Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "AT&T, Inc.",
+                "name_nick": "AT&T2",
+                "employees": null,
+                "revenue": 146801000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "4857"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "T",
+                "sec_cik": 732717
+            }
+        }
+    },
+    "Berkshire Hathaway Inc.": {
+        "id": 11,
+        "name": "Berkshire Hathaway Inc.",
+        "blurb": "Holding company headquartered in Omaha, Nebraska",
+        "summary": null,
+        "website": "www.berkshirehathaway.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-28T20:55:40Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Berkshire Hathaway",
+            "Berkshire Hathaway Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Berkshire Hathaway",
+                "name_nick": "BERKSHIRE",
+                "employees": null,
+                "revenue": 43601000000,
+                "fedspending_id": "39189",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "BRK.B",
+                "sec_cik": 1067983
+            }
+        }
+    },
+    "JPMorgan Chase & Co.": {
+        "id": 12,
+        "name": "JPMorgan Chase & Co.",
+        "blurb": "A multinational banking corporation | World's largest public company",
+        "summary": null,
+        "website": "www.jpmorganchase.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T18:19:30Z",
+        "start_date": "1968-00-00",
+        "end_date": null,
+        "aliases": [
+            "BHC ID 1039502",
+            "Chase Manhattan Corporation",
+            "Chemical Banking Corporation",
+            "Chemical New York Corporation",
+            "IRS EIN 13-2624428",
+            "J.P. Morgan Chase & Co.",
+            "JP Morgan",
+            "JP Morgan & Co",
+            "JP Morgan Chase",
+            "JP Morgan Chase & Co",
+            "JPMorgan",
+            "JPMorgan Chase",
+            "JPMorgan Chase & Co.",
+            "The Chase Manhattan Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "JPMorgan Chase & Co.",
+                "name_nick": "JPMORGAN2",
+                "employees": null,
+                "revenue": 93755000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "25807"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "JPM",
+                "sec_cik": 19617
+            }
+        }
+    },
+    "American International Group, Inc.": {
+        "id": 13,
+        "name": "American International Group, Inc.",
+        "blurb": "Global insurance company",
+        "summary": null,
+        "website": "www.aig.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-15T00:18:39Z",
+        "start_date": "1919-00-00",
+        "end_date": null,
+        "aliases": [
+            "AIG",
+            "American International Group",
+            "American International Group, Inc.",
+            "IRS EIN 13-2592361"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "American International Group",
+                "name_nick": "AM-INT_GRP",
+                "employees": null,
+                "revenue": 75000000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "2695"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AIG",
+                "sec_cik": 5272
+            }
+        }
+    },
+    "Hewlett-Packard": {
+        "id": 14,
+        "name": "Hewlett-Packard",
+        "blurb": "Computer and home electronics manufacturer",
+        "summary": null,
+        "website": "www.hp.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T03:22:46Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Hewlett Packard",
+            "Hewlett-Packard",
+            "HP",
+            "HP INC"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Hewlett-Packard",
+                "name_nick": "HP",
+                "employees": null,
+                "revenue": 51463000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "18158"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HPQ",
+                "sec_cik": 47217
+            }
+        }
+    },
+    "IBM": {
+        "id": 15,
+        "name": "IBM",
+        "blurb": "Providing hardware, software, and consulting and related services.",
+        "summary": null,
+        "website": "www.ibm.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-05T19:50:01Z",
+        "start_date": "1911-00-00",
+        "end_date": null,
+        "aliases": [
+            "Computing-Tabulating-Recording Company",
+            "CTR",
+            "IBM",
+            "International Business Machines",
+            "International Business Machines Corp",
+            "International Business Machines Corporation",
+            "IRS EIN 13-0871985"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "International Business Machines",
+                "name_nick": "IBM",
+                "employees": null,
+                "revenue": 81741000000,
+                "fedspending_id": "111912",
+                "lda_registrant_id": "19877"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "IBM",
+                "sec_cik": 51143
+            }
+        }
+    },
+    "Valero Energy Corporation": {
+        "id": 16,
+        "name": "Valero Energy Corporation",
+        "blurb": "Oil and Gas corporation",
+        "summary": null,
+        "website": "www.valero.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-25T13:51:53Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Valero Energy",
+            "Valero Energy Corp",
+            "Valero Energy Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Valero Energy",
+                "name_nick": "VALERO_EN",
+                "employees": null,
+                "revenue": 87804000000,
+                "fedspending_id": "329703",
+                "lda_registrant_id": "39746"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "VLO",
+                "sec_cik": 1035002
+            }
+        }
+    },
+    "Verizon Communications Inc.": {
+        "id": 17,
+        "name": "Verizon Communications Inc.",
+        "blurb": "Merger of Bell Atlantic Corp. and GTE Corp.",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T15:02:13Z",
+        "start_date": "2000-06-30",
+        "end_date": null,
+        "aliases": [
+            "Bell Atlantic Corporation",
+            "IRS EIN 23-2259884",
+            "Verizon",
+            "Verizon Communications",
+            "Verizon Communications Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Verizon Communications",
+                "name_nick": "VERIZON_COMM",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": "331686",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "VZ",
+                "sec_cik": 732712
+            }
+        }
+    },
+    "McKesson": {
+        "id": 18,
+        "name": "McKesson",
+        "blurb": "Largest health care company in the world",
+        "summary": null,
+        "website": "http://www.mckesson.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-12-26T21:59:19Z",
+        "start_date": "1833-00-00",
+        "end_date": null,
+        "aliases": [
+            "McKesson",
+            "McKesson Corp",
+            "Mckesson Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "McKesson",
+                "name_nick": "MCKESSON",
+                "employees": null,
+                "revenue": 93574000000,
+                "fedspending_id": "204517",
+                "lda_registrant_id": "24566"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MCK",
+                "sec_cik": 927653
+            }
+        }
+    },
+    "Cardinal Health, Inc.": {
+        "id": 19,
+        "name": "Cardinal Health, Inc.",
+        "blurb": "Develop/Manufacture Products for Patient Care; Distribute Pharmaceutical/Medical",
+        "summary": null,
+        "website": "www.cardinal.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-05T00:17:34Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Cardinal Health",
+            "Cardinal Health, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Cardinal Health",
+                "name_nick": "CARDINAL",
+                "employees": null,
+                "revenue": 102531000000,
+                "fedspending_id": "56544",
+                "lda_registrant_id": "58055"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CAH",
+                "sec_cik": 721371
+            }
+        }
+    },
+    "Goldman Sachs": {
+        "id": 20,
+        "name": "Goldman Sachs",
+        "blurb": "Wall Street investment banking, securities and investment management firm",
+        "summary": null,
+        "website": "www.gs.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T22:31:02Z",
+        "start_date": "1869-00-00",
+        "end_date": null,
+        "aliases": [
+            "Goldman Sachs",
+            "Goldman Sachs Group",
+            "GOLDMAN SACHS GROUP, INC",
+            "Goldman Sachs Group, L.P.",
+            "Goldman Sachs Group, LP",
+            "Goldman, Sachs & Co.",
+            "IBD",
+            "IRS EIN 13-4019460",
+            "The Goldman Sachs Group, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "The Goldman Sachs Group, Inc.",
+                "name_nick": "GLDMAN_SACHS",
+                "employees": null,
+                "revenue": 34849000000,
+                "fedspending_id": "131768",
+                "lda_registrant_id": "313976"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "GS",
+                "sec_cik": 886982
+            }
+        }
+    },
+    "Morgan Stanley": {
+        "id": 21,
+        "name": "Morgan Stanley",
+        "blurb": "investment bank",
+        "summary": null,
+        "website": "www.morganstanley.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-05T20:00:02Z",
+        "start_date": "1935-09-16",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 36-3145972",
+            "Morgan Stanley",
+            "Morgan Stanley & Co Incorporated (F/K/A Morgan Stanley)",
+            "Morgan Stanley Dean Witter & Co."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Lobbying Firm"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Morgan Stanley",
+                "name_nick": "MORGAN_STAN",
+                "employees": null,
+                "revenue": 35228000000,
+                "fedspending_id": "216983",
+                "lda_registrant_id": "25842"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MS",
+                "sec_cik": 895421
+            }
+        }
+    },
+    "The Home Depot, Inc.": {
+        "id": 22,
+        "name": "The Home Depot, Inc.",
+        "blurb": "Home improvement supplies retailer",
+        "summary": null,
+        "website": "www.homedepot.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-08T21:19:13Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Home Depot",
+            "Home Depot, Inc.",
+            "The Home Depot, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Home Depot",
+                "name_nick": "HOME_DEPOT",
+                "employees": null,
+                "revenue": 88519000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "56771"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HD",
+                "sec_cik": 354950
+            }
+        }
+    },
+    "The Procter & Gamble Company": {
+        "id": 23,
+        "name": "The Procter & Gamble Company",
+        "blurb": "World's largest consumer packaged goods company",
+        "summary": null,
+        "website": "www.pg.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-08T19:28:56Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "P&G",
+            "Procter & Gamble",
+            "PROCTER & GAMBLE CO",
+            "Proctor and Gamble",
+            "The Procter & Gamble Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Procter & Gamble",
+                "name_nick": "PROC&GAMBLE",
+                "employees": null,
+                "revenue": 70749000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "PG",
+                "sec_cik": 80424
+            }
+        }
+    },
+    "UnitedHealth Group, Inc.": {
+        "id": 25,
+        "name": "UnitedHealth Group, Inc.",
+        "blurb": "Major health insurer, with headquarters in Minnetonka MN",
+        "summary": "Richard T. Burke founded United Healthcare Corporation in 1977. During the same year, the company acquired Charter Med Incorporated, a company formed by several physicians and healthcare professionals in 1974 to provide a wider range of healthcare options to the average consumer. By 1979, United Healthcare launched the first network-based health plans for its senior clientele and pioneered in selling health plans to the private market for Medicare.\r\n\r\nUnited Healthcare went public in 1984 and has grown in terms of investments and returns. The company also managed to acquire other companies through mergers and takeouts. Over the years though, United Healthcare was also pressed to sell some of its acquired assets to stay afloat. The Diversified Pharmaceutical Services, Inc., a pharmacy benefits administration company acquired in 1988, was sold to SmithKline Beecham Corporation in 1994 for $2.3 billion.\r\n\r\nThe following year, United Healthcare took The MetraHealth Companies for $1.65 billion. Under the terms of the acquisition, all companies that were held by MetraHealth will be incorporated to United Healthcare. Companies that were included in the merger were Travelers Insurance Company and Metropolitan Life Insurance Company.\r\n",
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:40:28Z",
+        "start_date": "1977-00-00",
+        "end_date": null,
+        "aliases": [
+            "United Health Group",
+            "UnitedHealth Group",
+            "UnitedHealth Group, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Political Fundraising Committee",
+            "Other Campaign Committee"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "UnitedHealth Group",
+                "name_nick": "UNITEDHEALTH",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "39143"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "UNH",
+                "sec_cik": 731766
+            },
+            "PoliticalFundraising": {
+                "fec_id": null,
+                "type_id": null,
+                "state_id": null
+            }
+        }
+    },
+    "The Kroger Co.": {
+        "id": 26,
+        "name": "The Kroger Co.",
+        "blurb": "Nation's largest traditional grocery retailer",
+        "summary": "Employs 343,000 associates who serve customers in 2,424 supermarkets and multi-department stores in 31 states under two dozen local banner names including Kroger, City Market, Dillons, Jay C, Food 4 Less, Fred Meyer, Fry's, King Soopers, QFC, Ralphs and Smith's. The company also operates 786 convenience stores, 328 fine jewelry stores, 1,169 supermarket fuel centers and 37 food processing plants in the U.S.",
+        "website": "www.kroger.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-30T04:58:14Z",
+        "start_date": "1883-00-00",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 31-0345740",
+            "Kroger",
+            "KROGER CO",
+            "The Kroger Co.",
+            "The Kroger Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Kroger",
+                "name_nick": "KROGER3",
+                "employees": null,
+                "revenue": 109830000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "88212"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "KR",
+                "sec_cik": 56873
+            }
+        }
+    },
+    "The Boeing Company": {
+        "id": 27,
+        "name": "The Boeing Company",
+        "blurb": "Advanced technology manufacturer and systems developer",
+        "summary": null,
+        "website": "www.boeing.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T20:22:30Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Boeing",
+            "Boeing Co.",
+            "The Boeing Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Boeing",
+                "name_nick": "BOEING",
+                "employees": null,
+                "revenue": 96114000000,
+                "fedspending_id": "44307",
+                "lda_registrant_id": "6597"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "BA",
+                "sec_cik": 12927
+            }
+        }
+    },
+    "AmerisourceBergen": {
+        "id": 28,
+        "name": "AmerisourceBergen",
+        "blurb": "Health Care Distribution",
+        "summary": null,
+        "website": "www.amerisourcebergen.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-05-16T17:37:42Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "AmerisourceBergen",
+            "AmerisourceBergen Corp",
+            "Amerisourcebergen Corporation Political Action Committee (Abc PAC)"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Political Fundraising Committee"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "AmerisourceBergen",
+                "name_nick": "AMERISOURCE",
+                "employees": null,
+                "revenue": 135961803000,
+                "fedspending_id": null,
+                "lda_registrant_id": "293756"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "ABC",
+                "sec_cik": 1140859
+            },
+            "PoliticalFundraising": {
+                "fec_id": "C00400929",
+                "type_id": null,
+                "state_id": null
+            }
+        }
+    },
+    "Costco Wholesale Corporation": {
+        "id": 29,
+        "name": "Costco Wholesale Corporation",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.costco.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-07T21:41:45Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Costco Wholesale",
+            "Costco Wholesale Corp",
+            "Costco Wholesale Corporation",
+            "IRS EIN 33-0572969"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Costco Wholesale",
+                "name_nick": "COSTCO",
+                "employees": null,
+                "revenue": 64400200000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "COST",
+                "sec_cik": 909832
+            }
+        }
+    },
+    "Merrill Lynch, Pierce, Fenner & Smith Incorporated": {
+        "id": 30,
+        "name": "Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+        "blurb": "The wealth management, brokerage, and investment banking arm of Bank of America",
+        "summary": null,
+        "website": "http://www.ml.com",
+        "parent_id": 9,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-20T17:52:53Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "BAML",
+            "Bank of America Merrill Lynch",
+            "BofA Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+            "IRS EIN 13-2740599",
+            "Merrill",
+            "Merrill Lynch",
+            "Merrill Lynch & Co., Inc.",
+            "Merrill Lynch & Company",
+            "Merrill Lynch and Co., Inc.",
+            "Merrill Lynch, Pierce, Fenner & Smith",
+            "Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+            "MLPF&S"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Merrill Lynch",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 64217000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "24965"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": 797284337467
+            },
+            "PublicCompany": {
+                "ticker": "MER",
+                "sec_cik": 65100
+            }
+        }
+    },
+    "Target Corporation": {
+        "id": 31,
+        "name": "Target Corporation",
+        "blurb": "Retail Company",
+        "summary": null,
+        "website": "www.target.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-02T13:53:51Z",
+        "start_date": "1902-00-00",
+        "end_date": null,
+        "aliases": [
+            "Dayton Hudson",
+            "Dayton Hudson Corporation",
+            "EIN 41-0215170",
+            "Target",
+            "Target Corp.",
+            "Target Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Target",
+                "name_nick": "TARGET",
+                "employees": null,
+                "revenue": 73785000000,
+                "fedspending_id": "308698",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "TGT",
+                "sec_cik": 27419
+            }
+        }
+    },
+    "State Farm Insurance Cos": {
+        "id": 32,
+        "name": "State Farm Insurance Cos",
+        "blurb": "Auto, Fire, Life and Health Insurance",
+        "summary": null,
+        "website": "http://www.statefarm.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-02T20:00:18Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "State Farm Insurance Cos",
+            "State Farm Mutual Automobile Insurance Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "State Farm Insurance Cos",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 61611600000,
+                "fedspending_id": null,
+                "lda_registrant_id": "36537"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "Anthem": {
+        "id": 33,
+        "name": "Anthem",
+        "blurb": "Health insurance provider; the largest U.S. health insurer by membership",
+        "summary": "WellPoint was formed when WellPoint Health Networks Inc. and Anthem, Inc. merged on Nov. 30, 2004.\r\n\r\nWellPoint Health Network Inc.'s predecessor was Blue Cross of California, which was founded in 1982 with the consolidation of Blue Cross of Northern California (established in 1936) and Blue Cross of Southern California (established in 1937). WellPoint was formed in 1992 to operate Blue Cross of California's managed care business. In 1993, Blue Cross of California spun off its managed care business into a separate publicly traded entity, WellPoint Health Networks Inc. In 1996, Blue Cross of California completed the conversion of all its business to for-profit status, resulting in a restructuring that designated WellPoint Health Networks Inc. as the parent organization.\r\n\r\nAnthem, Inc. grew out of two Indianapolis-based corporations formed in 1944 and 1946 as mutual insurance companies. Those two companies were created to provide health insurance to residents of Indiana as Blue Cross of Indiana and Blue Shield of Indiana. They eventually merged to form Blue Cross and Blue Shield of Indiana. In October 2001, Anthem demutualized and conducted an initial public offering of common stock.\r\n\r\nWellPoint acquired WellChoice of New York for $6.5 billion in a deal that closed at the end of 2005. WellChoice was the parent of Empire Blue Cross Blue Shield, the biggest health insurance firm in New York with over 4.8 million members.\r\n\r\n\n\nHere is a brief overview of WellPoint:\r\n\r\nWe are the leading health plan in the U.S. with approximately 35 million medical members.\r\nOne in nine Americans receives coverage for their medical care through WellPoint's affiliated health plans.\r\nWellPoint is a Blue Cross or Blue Cross Blue Shield licensee in 14 states: California, Colorado, Connecticut, Georgia, Indiana, Kentucky, Maine, Missouri, Nevada, New Hampshire, New York, Ohio, Virginia, and Wisconsin.\r\nWe offer a broad range of medical and specialty products.",
+        "website": "http://www.wellpoint.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:17:08Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Anthem",
+            "Anthem Blue Cross",
+            "Anthem Insurance",
+            "WellPoint",
+            "Wellpoint Health Networks",
+            "WellPoint, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "WellPoint",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 61134300000,
+                "fedspending_id": null,
+                "lda_registrant_id": "6484"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "WLP",
+                "sec_cik": 1156039
+            }
+        }
+    },
+    "Dell Inc": {
+        "id": 34,
+        "name": "Dell Inc",
+        "blurb": "Computer company",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-28T18:44:58Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Dell",
+            "Dell Computer Corporation",
+            "Dell Inc"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Dell",
+                "name_nick": "DELL",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "11958"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "DELL",
+                "sec_cik": 826083
+            }
+        }
+    },
+    "Johnson & Johnson": {
+        "id": 35,
+        "name": "Johnson & Johnson",
+        "blurb": "Pharmaceuticals, consumer packaged goods, medical devices",
+        "summary": null,
+        "website": "https://www.jnj.com/",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T20:27:10Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Johnson & Johnson"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Johnson & Johnson",
+                "name_nick": "JOHN&JOHN",
+                "employees": null,
+                "revenue": 70074000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "20686"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "JNJ",
+                "sec_cik": 200406
+            }
+        }
+    },
+    "Marathon Oil Corporation": {
+        "id": 36,
+        "name": "Marathon Oil Corporation",
+        "blurb": "Int'l energy co. engaged in oil/gas exploration, production, transportation, and marketing",
+        "summary": null,
+        "website": "http://www.marathon.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-01-06T16:12:20Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 25-0996816",
+            "Marathon Oil",
+            "Marathon Oil Corp",
+            "Marathon Oil Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Marathon Oil",
+                "name_nick": "MARATHON_OIL",
+                "employees": null,
+                "revenue": 60044000000,
+                "fedspending_id": "198248",
+                "lda_registrant_id": "39702"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MRO",
+                "sec_cik": 101778
+            }
+        }
+    },
+    "Lehman Brothers Holdings, Inc": {
+        "id": 37,
+        "name": "Lehman Brothers Holdings, Inc",
+        "blurb": "4th largest investment bank in the USA (before 2008 bankruptcy)",
+        "summary": "Lehman Brothers was founded in 1850 by two cotton brokers in Montgomery, Ala. The firm moved to New York City after the Civil War and grew into one of Wall Street's investment giants. \r\nShearson/American Express, an American Express-owned securities company focused on brokerage rather than investment banking, acquired Lehman in 1984, for $360 million. On May 11, the combined firms became Shearson Lehman/American Express.[29] In 1988, Shearson Lehman/American Express and E.F. Hutton & Co. merged as Shearson Lehman Hutton Inc.\r\nIn 1993 American Express began to divest itself of its banking and brokerage operations. It sold its retail brokerage and asset management operations to Primerica[33] and in 1994 it spun off Lehman Brothers Kuhn Loeb in an initial public offering, as Lehman Brothers Holdings, Inc.\r\n\r\nOn Sept. 14, 2008, the investment bank announced that it would file for liquidation after huge losses in the mortgage market and a loss of investor confidence crippled it and it was unable to find a buyer.",
+        "website": "http://www.lehman.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-03-25T17:03:15Z",
+        "start_date": "1850-00-00",
+        "end_date": "2008-00-00",
+        "aliases": [
+            "IRS EIN 13-3216325",
+            "LBHI",
+            "Lehman Brothers",
+            "Lehman Brothers Holdings",
+            "Lehman Brothers Holdings, Inc",
+            "Lehman Brothers, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Lehman Brothers Holdings, Inc",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 59003000000,
+                "fedspending_id": "370048",
+                "lda_registrant_id": "22553"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "LEH",
+                "sec_cik": null
+            }
+        }
+    },
+    "Wachovia Corporation": {
+        "id": 38,
+        "name": "Wachovia Corporation",
+        "blurb": "Financial services / banking",
+        "summary": null,
+        "website": "http://www.wachovia.com",
+        "parent_id": 41,
+        "primary_ext": "Org",
+        "updated_at": "2018-06-25T23:59:38Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Wachovia",
+            "Wachovia Bank",
+            "Wachovia Corp",
+            "Wachovia Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Wachovia Corp",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 55528000000,
+                "fedspending_id": "335299",
+                "lda_registrant_id": "49748"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "WB",
+                "sec_cik": 36995
+            }
+        }
+    },
+    "Raytheon Technologies Corporation": {
+        "id": 39,
+        "name": "Raytheon Technologies Corporation",
+        "blurb": "Publicly-traded defense and aerospace contractor, the result of mergers by UTC and Raytheon and the spin-offs of Otis Worldwide and Carrier ",
+        "summary": null,
+        "website": "https://www.rtx.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-09T13:22:26Z",
+        "start_date": "1934-00-00",
+        "end_date": null,
+        "aliases": [
+            "Raytheon Technologies",
+            "Raytheon Technologies Corporation",
+            "RTX",
+            "United Technologies",
+            "United Technologies Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "United Technologies",
+                "name_nick": "UNITED_TECH",
+                "employees": null,
+                "revenue": 56098000000,
+                "fedspending_id": "327319",
+                "lda_registrant_id": "39267"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "RTX",
+                "sec_cik": 101829
+            }
+        }
+    },
+    "Walgreen Co.": {
+        "id": 40,
+        "name": "Walgreen Co.",
+        "blurb": "Drugstore Chain",
+        "summary": null,
+        "website": "http://www.walgreens.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-19T23:55:01Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 36-1924025",
+            "Walgreen",
+            "Walgreen Co.",
+            "Walgreen's",
+            "Walgreens"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Walgreen Co.",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 53762000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "309071"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "WAG",
+                "sec_cik": 104207
+            }
+        }
+    },
+    "Wells Fargo & Company": {
+        "id": 41,
+        "name": "Wells Fargo & Company",
+        "blurb": "Large San Francisco-based bank holding company",
+        "summary": null,
+        "website": "www.wellsfargo.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-09T21:49:37Z",
+        "start_date": "1852-03-18",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 41-0449260",
+            "Norwest Corporation",
+            "Wells Fargo",
+            "Wells Fargo & Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Wells Fargo & Company",
+                "name_nick": "WELLS_FARGO3",
+                "employees": 276000,
+                "revenue": 86564000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "29620"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "WFC",
+                "sec_cik": 72971
+            }
+        }
+    },
+    "MetLife, Inc.": {
+        "id": 43,
+        "name": "MetLife, Inc.",
+        "blurb": "Insurance and Financial Service Provider",
+        "summary": null,
+        "website": "https://www.metlife.com/",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-30T04:55:54Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "MetLife",
+            "MetLife, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "MetLife",
+                "name_nick": "METLIFE",
+                "employees": null,
+                "revenue": 75000000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "40032280"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MET",
+                "sec_cik": 1099219
+            }
+        }
+    },
+    "Microsoft Corporation": {
+        "id": 44,
+        "name": "Microsoft Corporation",
+        "blurb": "computer technology",
+        "summary": null,
+        "website": "http://www.microsoft.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:32:13Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Microsoft",
+            "Microsoft Corp",
+            "Microsoft Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Microsoft",
+                "name_nick": "MICROSOFT",
+                "employees": null,
+                "revenue": 93580000000,
+                "fedspending_id": "210400",
+                "lda_registrant_id": "25204"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MSFT",
+                "sec_cik": 789019
+            }
+        }
+    },
+    "Sears Holdings Corporation": {
+        "id": 46,
+        "name": "Sears Holdings Corporation",
+        "blurb": null,
+        "summary": null,
+        "website": "www.searsholdings.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-11-30T16:45:23Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 20-1920798",
+            "KMart Holding Corporation",
+            "Sears Holdings",
+            "Sears Holdings Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Sears Holdings",
+                "name_nick": "SEARS_HOLDINGS",
+                "employees": null,
+                "revenue": 25146000000,
+                "fedspending_id": "380110",
+                "lda_registrant_id": "58911"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "SHLD",
+                "sec_cik": 1310067
+            }
+        }
+    },
+    "United Parcel Service, Inc.": {
+        "id": 47,
+        "name": "United Parcel Service, Inc.",
+        "blurb": null,
+        "summary": null,
+        "website": "www.ups.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:40:10Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "United Parcel Service",
+            "United Parcel Service, Inc.",
+            "UPS"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "United Parcel Service",
+                "name_nick": "UNI-PARCEL",
+                "employees": null,
+                "revenue": 58363000000,
+                "fedspending_id": "327074",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "UPS",
+                "sec_cik": 1090727
+            }
+        }
+    },
+    "Pfizer Inc.": {
+        "id": 48,
+        "name": "Pfizer Inc.",
+        "blurb": "Pharmaceutical, consumer and animal health products manufacturer",
+        "summary": null,
+        "website": "www.pfizer.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:37:57Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Pfizer",
+            "Pfizer -Warner Lambert",
+            "Pfizer Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Pfizer",
+                "name_nick": "PFIZER",
+                "employees": null,
+                "revenue": 48851000000,
+                "fedspending_id": "245882",
+                "lda_registrant_id": "31326"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "PFE",
+                "sec_cik": 78003
+            }
+        }
+    },
+    "Lowe's": {
+        "id": 49,
+        "name": "Lowe's",
+        "blurb": "Retail home improvement and appliance stores",
+        "summary": null,
+        "website": "http://www.lowes.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-02T23:23:11Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Lowe's"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Lowe's",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 48283000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "LOW",
+                "sec_cik": 60667
+            }
+        }
+    },
+    "Time Warner Inc.": {
+        "id": 50,
+        "name": "Time Warner Inc.",
+        "blurb": "Global Media, Entertainment and Publishing Company",
+        "summary": "On Monday June 9 2014, the nation’s largest magazine publisher will begin trading as an independent company — stock symbol: TIME — with an uncertain future.\r\n\r\nWhat was once a jewel in terms of profit and stature is now a drag on the share price of Time Warner, its parent company, and is being spun off with little ceremony and a load of debt. Absent the diversified portfolio of Time Warner, Time Inc. will be going it alone with more than 90 magazines and 45 websites in a market that views print as a thing of the past.\r\n\r\nThe new entity will start off with $1.3 billion in debt, including $600 million that will go toward a one-time cash dividend to Time Warner shareholders.",
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-29T21:20:36Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "AOL Time Warner",
+            "IRS EIN 13-4099534",
+            "Time Warner",
+            "Time Warner Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Time Warner",
+                "name_nick": "TIME_WARNER",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "1295"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "TWX",
+                "sec_cik": 1105705
+            }
+        }
+    },
+    "Caterpillar, Inc.": {
+        "id": 51,
+        "name": "Caterpillar, Inc.",
+        "blurb": "Heavy equipment",
+        "summary": null,
+        "website": "www.caterpillar.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T20:14:09Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Caterpillar",
+            "Caterpillar, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Caterpillar",
+                "name_nick": "CATERPILLAR",
+                "employees": null,
+                "revenue": 47011000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "8475"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CAT",
+                "sec_cik": 18230
+            }
+        }
+    },
+    "Medco Health Solutions": {
+        "id": 52,
+        "name": "Medco Health Solutions",
+        "blurb": "Pharmacy benefit management company; merged with Express Scripts in April 2012",
+        "summary": null,
+        "website": "http://www.medco.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2017-05-27T13:37:49Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Medco Health Solutions"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Medco Health Solutions",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 44506200000,
+                "fedspending_id": "205465",
+                "lda_registrant_id": "89177"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MHS",
+                "sec_cik": 1170650
+            }
+        }
+    },
+    "Archer Daniels Midland Company": {
+        "id": 53,
+        "name": "Archer Daniels Midland Company",
+        "blurb": "One of world's largest agri processors",
+        "summary": "In 1902, George A. Archer and John W. Daniels began a linseed crushing business. In 1923, Archer-Daniels Linseed Company acquired Midland Linseed Products Company, and the Archer-Daniels-Midland Company was formed. Every decade since our corporate inception, ADM has added a major profit center to our agribusiness: milling, processing, specialty feed ingredients, specialty food ingredients, cocoa, nutrition and more.\r\n\r\nWith a worldwide transportation network and more than 265 locations, ADM continues to partner with farmers and agriculture to create markets for their products around the globe.",
+        "website": "http://www.admworld.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-02T04:07:33Z",
+        "start_date": "1923-00-00",
+        "end_date": null,
+        "aliases": [
+            "ADM",
+            "Archer Daniels Midland",
+            "Archer Daniels Midland Company",
+            "IRS EIN 41-0129150"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Archer Daniels Midland",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 44018000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "310437"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "ADM",
+                "sec_cik": 7084
+            }
+        }
+    },
+    "Fannie Mae": {
+        "id": 54,
+        "name": "Fannie Mae",
+        "blurb": "Secondary mortgage market",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:33:28Z",
+        "start_date": "1938-00-00",
+        "end_date": null,
+        "aliases": [
+            "Fannie Mae",
+            "Federal National Mortgage Association",
+            "IRS EIN 52-0883107"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Fannie Mae",
+                "name_nick": "FED_MORTGAGE",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "14121"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "FNM",
+                "sec_cik": 310522
+            }
+        }
+    },
+    "Freddie Mac": {
+        "id": 55,
+        "name": "Freddie Mac",
+        "blurb": "Housing finance- GSE",
+        "summary": null,
+        "website": "http://www.freddiemac.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:34:45Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Federal Home Loan Mortgage Corp.",
+            "Federal Home Loan Mortgage Corporation",
+            "Freddie Mac"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Freddie Mac",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 43104000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "FRE",
+                "sec_cik": 1026214
+            }
+        }
+    },
+    "Safeway Inc.": {
+        "id": 56,
+        "name": "Safeway Inc.",
+        "blurb": "Grocery retailer and manufacturer",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-06-03T16:32:57Z",
+        "start_date": "1926-00-00",
+        "end_date": null,
+        "aliases": [
+            "Safeway",
+            "Safeway Inc.",
+            "Safeway Stores, Incorporated"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Safeway",
+                "name_nick": "SAFEWAY",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "300173"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "Sunoco, Inc.": {
+        "id": 57,
+        "name": "Sunoco, Inc.",
+        "blurb": "Refines and markets petroleum products in the United States",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-10-15T18:32:20Z",
+        "start_date": "1886-00-00",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 23-1743282",
+            "Sun Company, Inc.",
+            "Sunoco",
+            "Sunoco, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Sunoco",
+                "name_nick": "SUNOCO",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "37312"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "SUN",
+                "sec_cik": 95304
+            }
+        }
+    },
+    "Lockheed Martin Corporation": {
+        "id": 58,
+        "name": "Lockheed Martin Corporation",
+        "blurb": "Defense, aeronautics, and systems engineering company",
+        "summary": null,
+        "website": "http://www.lockheedmartin.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T18:03:06Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 52-1893632",
+            "Lockheed Martin",
+            "Lockheed Martin Corp",
+            "Lockheed Martin Corporation",
+            "Lockheed-Martin Corp."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Lockheed Martin",
+                "name_nick": "LOCK-MARTIN",
+                "employees": null,
+                "revenue": 41862000000,
+                "fedspending_id": "190977",
+                "lda_registrant_id": "23031"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "LMT",
+                "sec_cik": 936468
+            }
+        }
+    },
+    "Sprint Corporation": {
+        "id": 59,
+        "name": "Sprint Corporation",
+        "blurb": "Offers a comprehensive range of wireless and wireline communications services",
+        "summary": null,
+        "website": "www.sprint.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-02-10T15:01:27Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 46-1170005",
+            "Sprint Corporation",
+            "Sprint Nextel",
+            "Starburst II, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Sprint Nextel",
+                "name_nick": "SPRINT",
+                "employees": null,
+                "revenue": 32180000000,
+                "fedspending_id": "297186",
+                "lda_registrant_id": "36388"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "S",
+                "sec_cik": 101830
+            }
+        }
+    },
+    "PepsiCo, Inc.": {
+        "id": 60,
+        "name": "PepsiCo, Inc.",
+        "blurb": "Domestic and international beverage and snack food company",
+        "summary": null,
+        "website": "www.pepsico.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-30T23:27:47Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "PepsiCo",
+            "PepsiCo, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "PepsiCo",
+                "name_nick": "PEPSICO",
+                "employees": null,
+                "revenue": 63056000000,
+                "fedspending_id": "244311",
+                "lda_registrant_id": "31202"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "PEP",
+                "sec_cik": 77476
+            }
+        }
+    },
+    "Intel Corporation": {
+        "id": 61,
+        "name": "Intel Corporation",
+        "blurb": "Semiconductor and Microchip manufacturer",
+        "summary": null,
+        "website": "http://www.intel.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T05:45:15Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Intel",
+            "Intel Corp",
+            "Intel Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Intel",
+                "name_nick": "INTEL",
+                "employees": null,
+                "revenue": 38334000000,
+                "fedspending_id": "158206",
+                "lda_registrant_id": "19536"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "INTC",
+                "sec_cik": 50863
+            }
+        }
+    },
+    "Altria Group, Inc.": {
+        "id": 62,
+        "name": "Altria Group, Inc.",
+        "blurb": "formerly Philip Morris; the largest U.S. tobacco company",
+        "summary": null,
+        "website": "www.altria.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-26T23:41:57Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Altria Group",
+            "Altria Group, Inc.",
+            "IRS EIN 13-3260245",
+            "Philip Morris",
+            "Philip Morris Companies Inc.",
+            "Tobacco Products Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Altria Group, Inc.",
+                "name_nick": "ALTRIA",
+                "employees": null,
+                "revenue": 25434000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MO",
+                "sec_cik": 764180
+            }
+        }
+    },
+    "SuperValu Inc.": {
+        "id": 63,
+        "name": "SuperValu Inc.",
+        "blurb": "Grocery store chain based in Minesota",
+        "summary": null,
+        "website": "www.supervalu.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-05-16T17:37:44Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 41-0617000",
+            "Supervalu",
+            "SUPERVALU INC.",
+            "SuperValu Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Supervalu",
+                "name_nick": "SUPERVALU",
+                "employees": null,
+                "revenue": 17529000000,
+                "fedspending_id": "304734",
+                "lda_registrant_id": "400275287"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "SVU",
+                "sec_cik": 95521
+            }
+        }
+    },
+    "Mondelēz International, Inc.": {
+        "id": 64,
+        "name": "Mondelēz International, Inc.",
+        "blurb": "Manufactures consumer food products",
+        "summary": null,
+        "website": "http://www.kraft.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-13T00:35:09Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 52-2884372",
+            "Kraft Food",
+            "Kraft Foods",
+            "Kraft Foods Inc.",
+            "Kraft General Foods Corporation",
+            "Mondelez International",
+            "Mondelēz International, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Mondelēz International, Inc.",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 37241000000,
+                "fedspending_id": "369350",
+                "lda_registrant_id": "314192"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "KFT",
+                "sec_cik": 1103982
+            }
+        }
+    },
+    "The Allstate Corporation": {
+        "id": 65,
+        "name": "The Allstate Corporation",
+        "blurb": "Property and casualty insurance company",
+        "summary": null,
+        "website": "www.allstate.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T18:16:02Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Allstate",
+            "Allstate Corp",
+            "The Allstate Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Allstate",
+                "name_nick": "ALLSTATE",
+                "employees": null,
+                "revenue": 30000000000,
+                "fedspending_id": "16071",
+                "lda_registrant_id": "1114"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "ALL",
+                "sec_cik": 899051
+            }
+        }
+    },
+    "Best Buy Co, Inc.": {
+        "id": 67,
+        "name": "Best Buy Co, Inc.",
+        "blurb": "Retailer",
+        "summary": null,
+        "website": "www.bestbuy.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T19:39:10Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Best Buy",
+            "Best Buy Co, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Best Buy",
+                "name_nick": "BEST_BUY",
+                "employees": null,
+                "revenue": 39528000000,
+                "fedspending_id": "354756",
+                "lda_registrant_id": "75193"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "BBY",
+                "sec_cik": 764478
+            }
+        }
+    },
+    "TWDC Enterprises 18 Corporation": {
+        "id": 68,
+        "name": "TWDC Enterprises 18 Corporation",
+        "blurb": "\"Old Disney\"",
+        "summary": "TWDC Enterprises 18 Corporation, initially known as DC Holdco, Inc., is a holding company founded to facilitate the acquisition of Capital Cities/ABC Inc.. This was the legal entity using The Walt Disney Company name from 1996 until 2019. It adopts its current name on March 20, 2019 upon completion of Disney's acquisition of 21st Century Fox and it became a wholly owned subsidiary of TWDC Holdco 613 Corporation, which now carries \"The Walt Disney Company\" name.",
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-01-04T19:26:54Z",
+        "start_date": "1996-00-00",
+        "end_date": null,
+        "aliases": [
+            "DC Holdco, Inc.",
+            "IRS EIN 95-4545390",
+            "The Walt Disney Company",
+            "The Walt Disney Company (pre-merger)",
+            "TWDC Enterprises 18 Corp.",
+            "TWDC Enterprises 18 Corporation",
+            "Walt Disney Co."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Walt Disney",
+                "name_nick": "WALT_DISNEY",
+                "employees": null,
+                "revenue": 52465000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "FedEx": {
+        "id": 69,
+        "name": "FedEx",
+        "blurb": "Express Carrier",
+        "summary": null,
+        "website": "www.fedex.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:33:46Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Federal Express Corporation",
+            "FedEx",
+            "FEDEX CORP"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "FedEx",
+                "name_nick": "FEDEX",
+                "employees": null,
+                "revenue": 47453000000,
+                "fedspending_id": "115151",
+                "lda_registrant_id": "43285"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "FDX",
+                "sec_cik": 1048911
+            }
+        }
+    },
+    "Ingram Micro Inc.": {
+        "id": 70,
+        "name": "Ingram Micro Inc.",
+        "blurb": null,
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-06-20T18:19:45Z",
+        "start_date": "1996-00-00",
+        "end_date": null,
+        "aliases": [
+            "Ingram Micro",
+            "Ingram Micro Inc.",
+            "IRS EIN 62-1644402",
+            "Micro D Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Ingram Micro",
+                "name_nick": "INGRAM_MICRO",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "IM",
+                "sec_cik": 1018003
+            }
+        }
+    },
+    "Sysco": {
+        "id": 71,
+        "name": "Sysco",
+        "blurb": "North America marketer and distributor of foodservice products. Includes career and company information, investor relations, and recipes.",
+        "summary": null,
+        "website": "http://www.sysco.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-12T13:46:56Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Sysco",
+            "Sysco Corp",
+            "Sysco Corporation",
+            "Systems and Services Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Sysco",
+                "name_nick": "SYSCO",
+                "employees": null,
+                "revenue": 35042100000,
+                "fedspending_id": "306476",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "SYY",
+                "sec_cik": 96021
+            }
+        }
+    },
+    "Cisco Systems, Inc.": {
+        "id": 72,
+        "name": "Cisco Systems, Inc.",
+        "blurb": "Internet solutions company that provides hardware, software and services to indiciduals and businesses",
+        "summary": "Cisco Systems, Inc. is the worldwide leader in networking for the Internet. Today, networks are an essential part of business, education, government and home communications, and Cisco Internet Protocol-based (IP) networking solutions are the foundation of these networks.\r\n\r\nCisco hardware, software, and service offerings are used to create Internet solutions that allow individuals, companies, and countries to increase productivity, improve customer satisfaction and strengthen competitive advantage. The Cisco name has become synonymous with the Internet, as well as with the productivity improvements that Internet business solutions provide. At Cisco, our vision is to change the way people work, live, play and learn.",
+        "website": "www.cisco.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T05:43:52Z",
+        "start_date": "1984-12-10",
+        "end_date": null,
+        "aliases": [
+            "Cisco Systems",
+            "Cisco Systems, Inc.",
+            "IRS EIN 77-0059951"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Cisco Systems",
+                "name_nick": "CISCO_SYS",
+                "employees": null,
+                "revenue": 49161000000,
+                "fedspending_id": "66160",
+                "lda_registrant_id": "44300"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CSCO",
+                "sec_cik": 858877
+            }
+        }
+    },
+    "Johnson Controls": {
+        "id": 73,
+        "name": "Johnson Controls",
+        "blurb": "Smart Building Systems",
+        "summary": "Johnson Controls: Enhancing the Intelligence of Buildings\r\nYour buildings have a purpose. \r\n\r\nThey are places for people to live or work. Facilities for learning or healing. Venues for entertainment and shopping. Sites for the specialized storage of tangible goods or mission-critical data. Your buildings have a huge variety of functions; they are central to your mission. \r\n\r\nThis is where Johnson Controls comes in, helping drive the outcomes that matter most. Through a full range of systems and digital solutions, we make your buildings smarter. A smarter building is safer, more comfortable, more efficient, and, ultimately, more sustainable. Most important, smarter buildings let you focus more intensely on your unique mission. Better for your people. Better for your bottom line. Better for the planet.\r\nAt Johnson Controls, we’ve been making buildings smarter since 1885, and our capabilities, depth of innovation experience, and global reach have been growing ever since. Today, we offer the world’s largest portfolio of building products, technologies, software, and services; we put that portfolio to work to transform the environments where people live, work, learn and play.\r\n\r\nJohnson Controls: The power behind your mission.\r\n\r\n \r\n\r\nThe Power Behind Your Mission\r\n\r\nAt Johnson Controls, we transform the environments where people live, work, learn and play. From optimizing building performance to improving safety and enhancing comfort, we drive the outcomes that matter most.\r\n\r\nDedicated to protecting the environment, we deliver our promise in industries such as healthcare, education, data centers, and manufacturing.\r\nVIEW FULL-SCREEN VIDEO\r\n",
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T17:54:31Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 39-0380010",
+            "Johnson Controls",
+            "Johnson Controls, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Johnson Controls",
+                "name_nick": "JOHN_CONTROL",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "51150"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "JCI",
+                "sec_cik": 53669
+            }
+        }
+    },
+    "Honeywell International Inc.": {
+        "id": 74,
+        "name": "Honeywell International Inc.",
+        "blurb": null,
+        "summary": null,
+        "website": "https://www.honeywell.com/",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-04T17:39:41Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Electronic Data Processing",
+            "Honeywell",
+            "Honeywell International Inc.",
+            "Honeywell, Inc.",
+            "IRS EIN 22-2640650",
+            "Minneapolis-Honeywell Regulator Co."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Honeywell International Inc.",
+                "name_nick": "HONEYWELL",
+                "employees": null,
+                "revenue": 38581000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HON",
+                "sec_cik": 773840
+            }
+        }
+    },
+    "American Express Company": {
+        "id": 76,
+        "name": "American Express Company",
+        "blurb": "Global payments company",
+        "summary": null,
+        "website": "www.americanexpress.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T20:23:07Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "American Express",
+            "American Express Company",
+            "IRS EIN 13-4922250"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "American Express",
+                "name_nick": "AM_EXPRESS",
+                "employees": null,
+                "revenue": 32846000000,
+                "fedspending_id": "18512",
+                "lda_registrant_id": "2274"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AXP",
+                "sec_cik": 4962
+            }
+        }
+    },
+    "Northrop Grumman Corporation": {
+        "id": 77,
+        "name": "Northrop Grumman Corporation",
+        "blurb": null,
+        "summary": "Northrop Grumman is a leading global security company providing innovative systems, products and solutions in unmanned systems, cyber, C4ISR, and logistics and modernization to government and commercial customers worldwide.",
+        "website": "www.northropgrumman.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:35:41Z",
+        "start_date": "1939-00-00",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 80-0640649",
+            "Northrop Aircraft Incorporated",
+            "Northrop Grumman",
+            "Northrop Grumman Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Northrop Grumman",
+                "name_nick": "N-GRUMMAN",
+                "employees": null,
+                "revenue": 23526000000,
+                "fedspending_id": "229814",
+                "lda_registrant_id": "29551"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "NOC",
+                "sec_cik": 1133421
+            }
+        }
+    },
+    "Hess Corporation": {
+        "id": 78,
+        "name": "Hess Corporation",
+        "blurb": "Oil and Gas Operations",
+        "summary": null,
+        "website": "www.hess.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-11-23T07:14:47Z",
+        "start_date": "1920-00-00",
+        "end_date": null,
+        "aliases": [
+            "Amerada Corporation",
+            "Amerada Hess",
+            "Amerada Hess Corporation",
+            "Amerada Petroleum Corporation",
+            "Hess",
+            "Hess Corporation",
+            "Hess Energy",
+            "IRS EIN 13-4921002"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Hess Corporation",
+                "name_nick": "HESS",
+                "employees": null,
+                "revenue": 6510000000,
+                "fedspending_id": "145029",
+                "lda_registrant_id": "66352"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HES",
+                "sec_cik": 4447
+            }
+        }
+    },
+    "Ally Financial Inc.": {
+        "id": 79,
+        "name": "Ally Financial Inc.",
+        "blurb": "Renamed from General Motors Acceptance Corporation (GMAC) to Ally in 2010",
+        "summary": "GMAC Financial Services is a global, diversified financial services company that operates in approximately 40 countries in automotive finance, real estate finance, insurance and other commercial businesses. Established in 1919, GMAC currently employs 31,000 people worldwide. In November 2006, General Motors sold a 51% controlling interest in GMAC to a consortium of investors led by Cerberus Capital Management, L.P.",
+        "website": "http://www.gmacfs.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-27T00:23:37Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Ally Financial Inc.",
+            "GMAC",
+            "GMAC Financial Services"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "GMAC",
+                "name_nick": null,
+                "employees": 31400,
+                "revenue": 31490000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "313737"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "GJM",
+                "sec_cik": 40729
+            }
+        }
+    },
+    "Comcast Corporation": {
+        "id": 80,
+        "name": "Comcast Corporation",
+        "blurb": "The largest broadcasting and cable company in the world, parent of NBCUniversal",
+        "summary": null,
+        "website": "www.comcast.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-06T02:41:18Z",
+        "start_date": "1963-06-28",
+        "end_date": null,
+        "aliases": [
+            "AT&T Comcast Corporation",
+            "Comcast",
+            "Comcast Corporation",
+            "IRS EIN 27-0000798"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Comcast",
+                "name_nick": "COMCAST",
+                "employees": null,
+                "revenue": 74510000000,
+                "fedspending_id": "71186",
+                "lda_registrant_id": "10057"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CMCSA",
+                "sec_cik": 1166691
+            }
+        }
+    },
+    "Alcoa Inc.": {
+        "id": 81,
+        "name": "Alcoa Inc.",
+        "blurb": "Aluminum producer",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-02T23:18:30Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Alcoa",
+            "Alcoa Corp.",
+            "Alcoa Inc.",
+            "IRS EIN 25-0317820"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Alcoa",
+                "name_nick": "ALCOA",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": "13556",
+                "lda_registrant_id": "1238"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AA",
+                "sec_cik": 4281
+            }
+        }
+    },
+    "DuPont": {
+        "id": 82,
+        "name": "DuPont",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.dupont.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T19:55:32Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "DuPont",
+            "DuPont de Nemours",
+            "E.I. DuPont De Nemours & CO",
+            "EI DU PONT DE NEMOURS AND COMPANY"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "DuPont",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 30653000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "DD",
+                "sec_cik": 30554
+            }
+        }
+    },
+    "The Coca-Cola Company": {
+        "id": 84,
+        "name": "The Coca-Cola Company",
+        "blurb": "Engages in the manufacture, distribution, marketing, and sale of nonalcoholic be",
+        "summary": null,
+        "website": "www.coca-colacompany.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-30T23:24:55Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Coca Cola",
+            "Coca-Cola",
+            "The Coca-Cola Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company",
+            "Lobbying Firm"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Coca-Cola",
+                "name_nick": "COCA-COLA",
+                "employees": null,
+                "revenue": 44294000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "40048370"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "KO",
+                "sec_cik": 21344
+            }
+        }
+    },
+    "Aetna Inc.": {
+        "id": 86,
+        "name": "Aetna Inc.",
+        "blurb": "Insurance",
+        "summary": null,
+        "website": "http://www.aetna.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T20:22:42Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Aetna",
+            "Aetna Inc.",
+            "Aetna Life & Casualty Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Aetna",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 27599600000,
+                "fedspending_id": null,
+                "lda_registrant_id": "352"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AET",
+                "sec_cik": 1122304
+            }
+        }
+    },
+    "General Dynamics Corporation": {
+        "id": 88,
+        "name": "General Dynamics Corporation",
+        "blurb": "Manufactures components, parts, systems for military and commercial aircraft",
+        "summary": null,
+        "website": "http://www.generaldynamics.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-15T14:20:17Z",
+        "start_date": "1899-00-00",
+        "end_date": null,
+        "aliases": [
+            "Electric Boat Company",
+            "General Dynamics",
+            "General Dynamics Corp",
+            "General Dynamics Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "General Dynamics",
+                "name_nick": "GEN_DYNAMICS",
+                "employees": null,
+                "revenue": 27294000000,
+                "fedspending_id": "127104",
+                "lda_registrant_id": "15986"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "GD",
+                "sec_cik": 40533
+            }
+        }
+    },
+    "Tyson Foods, Inc.": {
+        "id": 89,
+        "name": "Tyson Foods, Inc.",
+        "blurb": "Poultry and beef",
+        "summary": null,
+        "website": "www.tyson.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-04-30T22:44:40Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Tyson Foods",
+            "Tyson Foods, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Tyson Foods",
+                "name_nick": "TYSON_FOODS",
+                "employees": null,
+                "revenue": 41373000000,
+                "fedspending_id": "325167",
+                "lda_registrant_id": "79255"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "TSN",
+                "sec_cik": 100493
+            }
+        }
+    },
+    "Macy's, Inc.": {
+        "id": 92,
+        "name": "Macy's, Inc.",
+        "blurb": null,
+        "summary": null,
+        "website": "www.macysinc.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-12T23:03:18Z",
+        "start_date": "1929-00-00",
+        "end_date": null,
+        "aliases": [
+            "Federated Department Stores",
+            "Federated Department Stores, Inc.",
+            "Macy's",
+            "Macy's, Inc.",
+            "R. H. Macy & Co."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Macy's",
+                "name_nick": "MACY'S",
+                "employees": null,
+                "revenue": 27079000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "M",
+                "sec_cik": 794367
+            }
+        }
+    },
+    "Delphi Automotive LLP": {
+        "id": 93,
+        "name": "Delphi Automotive LLP",
+        "blurb": "Manufactures and markets vehicle components.",
+        "summary": null,
+        "website": "http://www.delphi.com",
+        "parent_id": 100626,
+        "primary_ext": "Org",
+        "updated_at": "2017-11-02T17:26:26Z",
+        "start_date": "1999-00-00",
+        "end_date": null,
+        "aliases": [
+            "Delphi",
+            "Delphi Automotive LLP",
+            "Delphi Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Delphi Corporation",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 26160000000,
+                "fedspending_id": "88973",
+                "lda_registrant_id": "49054"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "The Travelers Companies, Inc.": {
+        "id": 94,
+        "name": "The Travelers Companies, Inc.",
+        "blurb": "Holding company formed by the merging of The St. Paul Companies, Inc. with Travelers Property Casualty Corporation",
+        "summary": null,
+        "website": "http://www.travelers.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-03-11T01:43:17Z",
+        "start_date": "1853-00-00",
+        "end_date": null,
+        "aliases": [
+            "IRS EIN 41-0518860",
+            "The St. Paul Companies, Inc.",
+            "The St. Paul Travelers Companies, Inc.",
+            "The Travelers Companies, Inc.",
+            "Travelers Cos",
+            "Travelers Group Inc"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "The Travelers Companies, Inc.",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 26017000000,
+                "fedspending_id": "321441",
+                "lda_registrant_id": "77173"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "TRV",
+                "sec_cik": 86312
+            }
+        }
+    },
+    "Liberty Mutual Insurance Group": {
+        "id": 95,
+        "name": "Liberty Mutual Insurance Group",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.libertymutual.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:03:10Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Liberty Mutual Group",
+            "Liberty Mutual Insurance Group"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Liberty Mutual Insurance Group",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 25961000000,
+                "fedspending_id": "188522",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "The Hartford Financial Services Group, Inc.": {
+        "id": 96,
+        "name": "The Hartford Financial Services Group, Inc.",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.thehartford.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T22:47:09Z",
+        "start_date": "1810-00-00",
+        "end_date": null,
+        "aliases": [
+            "Hartford Financial Services",
+            "Hartford Financial Services Group Inc",
+            "IRS EIN 13-3317783",
+            "The Hartford Financial Services Group, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Hartford Financial Services",
+                "name_nick": "HARTFORD_FIN",
+                "employees": null,
+                "revenue": 25916000000,
+                "fedspending_id": "141162",
+                "lda_registrant_id": "17682"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HIG",
+                "sec_cik": 874766
+            }
+        }
+    },
+    "Abbott Laboratories": {
+        "id": 97,
+        "name": "Abbott Laboratories",
+        "blurb": "Global, broad-based health care company",
+        "summary": null,
+        "website": "https://www.abbott.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T21:13:04Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Abbott Laboratories"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Abbott Laboratories",
+                "name_nick": "ABBOTT",
+                "employees": null,
+                "revenue": 20405000000,
+                "fedspending_id": "3897",
+                "lda_registrant_id": "66"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "ABT",
+                "sec_cik": 1800
+            }
+        }
+    },
+    "Humana Inc.": {
+        "id": 99,
+        "name": "Humana Inc.",
+        "blurb": "Health insurer",
+        "summary": null,
+        "website": null,
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-04T02:28:36Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Humana",
+            "Humana Inc.",
+            "IRS EIN 61-0647538"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Humana",
+                "name_nick": "HUMANA",
+                "employees": null,
+                "revenue": null,
+                "fedspending_id": null,
+                "lda_registrant_id": "18912"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "HUM",
+                "sec_cik": 49071
+            }
+        }
+    },
+    "Deere & Company": {
+        "id": 103,
+        "name": "Deere & Company",
+        "blurb": "Company that manufactures agricultural, construction, and forestry machinery, diesel engines, drivetrains used in heavy equipment, and lawn care equipment.",
+        "summary": null,
+        "website": "www.deere.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-07T20:17:18Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Deere",
+            "DEERE & CO",
+            "Deere & Company",
+            "IRS EIN 36-2382580",
+            "John Deere",
+            "John Deere & Company",
+            "John Deere & Company, Inc.",
+            "Moline Plow Manufactory"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Deere & Company",
+                "name_nick": "DEERE&CO",
+                "employees": null,
+                "revenue": 28862800000,
+                "fedspending_id": "88307",
+                "lda_registrant_id": "11878"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "DE",
+                "sec_cik": 315189
+            }
+        }
+    },
+    "Apple, Inc.": {
+        "id": 104,
+        "name": "Apple, Inc.",
+        "blurb": "Multinational consumer electronics and software company",
+        "summary": null,
+        "website": "https://www.apple.com ",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-08T21:28:13Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Apple",
+            "Apple, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Apple",
+                "name_nick": "APPLE",
+                "employees": null,
+                "revenue": 233715000000,
+                "fedspending_id": null,
+                "lda_registrant_id": "4152"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AAPL",
+                "sec_cik": 320193
+            }
+        }
+    },
+    "Countrywide Financial Corp.": {
+        "id": 105,
+        "name": "Countrywide Financial Corp.",
+        "blurb": "Holding company that engages in mortgage lending and other financial-related ope",
+        "summary": null,
+        "website": "http://www.countrywide.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-04T17:20:39Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Countrywide Financial",
+            "Countrywide Financial Corp."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Countrywide Financial",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 23442100000,
+                "fedspending_id": null,
+                "lda_registrant_id": "11151"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "CFC",
+                "sec_cik": 25191
+            }
+        }
+    },
+    "Tech Data": {
+        "id": 106,
+        "name": "Tech Data",
+        "blurb": "Wholesale distributor of tech products is based in Clearwater, Fla",
+        "summary": null,
+        "website": "http://www.techdata.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-04-10T14:55:57Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Tech Data"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Tech Data",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 23423100000,
+                "fedspending_id": "309776",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "TECD",
+                "sec_cik": 790703
+            }
+        }
+    },
+    "McDonald's Corporation": {
+        "id": 107,
+        "name": "McDonald's Corporation",
+        "blurb": "Major fast food chain",
+        "summary": null,
+        "website": "www.mcdonalds.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-24T19:50:11Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "McDonald's",
+            "McDonald's Corporation",
+            "McDonalds Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "McDonald's",
+                "name_nick": "MCDONALDS",
+                "employees": null,
+                "revenue": 25413000000,
+                "fedspending_id": null,
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "MCD",
+                "sec_cik": 63908
+            }
+        }
+    },
+    "Publix Super Markets": {
+        "id": 108,
+        "name": "Publix Super Markets",
+        "blurb": "Employee-owned supermarket chain headquartered in Lakeland, FL ",
+        "summary": null,
+        "website": "http://www.publix.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-02-12T18:39:50Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Publix Super Markets",
+            "Publix Super Markets, Inc."
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Publix Super Markets",
+                "name_nick": "PUBLIX",
+                "employees": null,
+                "revenue": 21820000000,
+                "fedspending_id": "256235",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "PUSH",
+                "sec_cik": null
+            }
+        }
+    },
+    "Nationwide": {
+        "id": 109,
+        "name": "Nationwide",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.nationwide.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-08-13T01:42:41Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Nationwide"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Private Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Nationwide",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 22962000000,
+                "fedspending_id": "223160",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            }
+        }
+    },
+    "American Airlines Group Inc.": {
+        "id": 110,
+        "name": "American Airlines Group Inc.",
+        "blurb": "Parent company of American Airlines",
+        "summary": null,
+        "website": "www.aa.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2019-12-26T21:30:59Z",
+        "start_date": "1934-00-00",
+        "end_date": null,
+        "aliases": [
+            "American Airlines Group Inc.",
+            "AMR",
+            "AMR Corporation"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "AMR",
+                "name_nick": "AM-AIR_GRP",
+                "employees": null,
+                "revenue": 40990000000,
+                "fedspending_id": "20394",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "AAL",
+                "sec_cik": 6201
+            }
+        }
+    },
+    "Emerson Electric": {
+        "id": 112,
+        "name": "Emerson Electric",
+        "blurb": "Engineers and manufactures technology products. Revenues are $18 billion.",
+        "summary": null,
+        "website": " https://www.emerson.com/en-us",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-04T17:27:17Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Emerson Electric",
+            "Emerson Electric Co"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Emerson Electric",
+                "name_nick": "EMERSON_ELEC",
+                "employees": null,
+                "revenue": 16249000000,
+                "fedspending_id": "106331",
+                "lda_registrant_id": null
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "EMR",
+                "sec_cik": 32604
+            }
+        }
+    },
+    "Raytheon Company": {
+        "id": 113,
+        "name": "Raytheon Company",
+        "blurb": "Defense contractor; merged with UTC. Surviving company exists as a subsidiary of the renamed UTC, company, Raytheon Technologies",
+        "summary": "Raytheon is a major American defense contractor that specializes in defense and homeland security technology. As the world’s largest producer of guided missiles, Raytheon specializes in manufacturing defense systems and defense electronics. \r\n\r\nA member of the defense electronic industry, Raytheon is most active lobbying on defense, homeland security and federal budget appropriation issues.",
+        "website": "www.raytheon.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-05-20T13:16:23Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "Raytheon",
+            "Raytheon Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Raytheon",
+                "name_nick": "RAYTHEON",
+                "employees": null,
+                "revenue": 23247000000,
+                "fedspending_id": "262102",
+                "lda_registrant_id": "32828"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "RTN",
+                "sec_cik": 1047122
+            }
+        }
+    },
+    "International Paper Company": {
+        "id": 115,
+        "name": "International Paper Company",
+        "blurb": null,
+        "summary": null,
+        "website": "http://www.internationalpaper.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2020-06-03T04:09:02Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "International Paper",
+            "International Paper Co",
+            "International Paper Company"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "International Paper",
+                "name_nick": "IPC",
+                "employees": null,
+                "revenue": 22284000000,
+                "fedspending_id": "352481",
+                "lda_registrant_id": "20015"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "IP",
+                "sec_cik": 51434
+            }
+        }
+    },
+    "HP Enterprise": {
+        "id": 116,
+        "name": "HP Enterprise",
+        "blurb": "Information technology",
+        "summary": null,
+        "website": "http://www.eds.com",
+        "parent_id": null,
+        "primary_ext": "Org",
+        "updated_at": "2018-11-13T16:17:39Z",
+        "start_date": null,
+        "end_date": null,
+        "aliases": [
+            "EDS Corporation",
+            "EDS, an HP company",
+            "Electronic Data Systems",
+            "Electronic Data Systems Corporation",
+            "HP Enterprise",
+            "HP Enterprise Services"
+        ],
+        "types": [
+            "Organization",
+            "Business",
+            "Public Company"
+        ],
+        "extensions": {
+            "Org": {
+                "name": "Electronic Data Systems",
+                "name_nick": null,
+                "employees": null,
+                "revenue": 22135000000,
+                "fedspending_id": "104656",
+                "lda_registrant_id": "13357"
+            },
+            "Business": {
+                "annual_profit": null,
+                "assets": null,
+                "marketcap": null,
+                "net_income": null,
+                "aum": null
+            },
+            "PublicCompany": {
+                "ticker": "EDS",
+                "sec_cik": 1007456
+            }
+        }
     }
 }
