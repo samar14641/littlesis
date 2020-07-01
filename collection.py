@@ -60,7 +60,7 @@ def collector():
 
     entID = None  # entity ID
     count = 0
-    maxCollect = 1000
+    maxCollect = 7000
     baseURL = 'https://littlesis.org/api/entities/'
     params = {'details': 'TRUE'}
 
@@ -102,31 +102,46 @@ def collector():
         entID += 1
 
         if count % 100 == 0 and data:  # write after every 100 entities
-            with open(os.getcwd() + '\\Data\\entity' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
+            with open(os.getcwd() + '\\Data\\entity\\entity' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)   
 
-            print('written e' + str(currentFile))
-            currentFile += 1
-
             data = {} 
+
+            print('written entity' + str(currentFile))
+
+            currentFile += 1
+        
+        if count % 500 == 0 and len(notOk) > 0:  # write notOk log if any
+            with open(os.getcwd() + '\\Pickle\\notOk\\notOk' + str(currentFile - 1) + '.pickle', 'wb') as pckl:
+                pickle.dump(notOk, pckl, pickle.HIGHEST_PROTOCOL)
+
+            notOk = set()
+
+            print('written notOk' + str(currentFile - 1))
 
         t2 = time.time()
 
         if t2 - t1 < minSleep:
             time.sleep(minSleep - (t2 - t1))    
 
-    # pprint(notOk)       
-    with open(os.getcwd() + '\\Pickle\\notOk.pickle', 'wb') as pckl:
-        pickle.dump(notOk, pckl, pickle.HIGHEST_PROTOCOL)
+    # pprint(notOk)  
 
-    # TO DO:
-    # -> data logger outside loop for final round of data
-    # -> notOk logger in loop if notOk is not {} every 1000 iters, use currentFile counter
+    if data:  # write remaining data if any
+        with open(os.getcwd() + '\\Data\\entity\\entity' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
+            json.dump(data, f, ensure_ascii = False, indent = 4)  
+
+        print('written entity' + str(currentFile))
+        
+    if notOk:  # write remaining notOk logs if any
+        with open(os.getcwd() + '\\Pickle\\notOk\\notOk' + str(currentFile) + '.pickle', 'wb') as pckl:
+            pickle.dump(notOk, pckl, pickle.HIGHEST_PROTOCOL)
+
+        print('written notOk' + str(currentFile))
 
     endTime = time.time()
     print('Time taken (min):', (endTime - startTime) / 60)
     print('Count:', count)
 
 # simpleIterativeCollect()
-# collectorInit()
+collectorInit()
 collector()

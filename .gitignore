@@ -1,3 +1,3 @@
 Data/collect150.json
-Data/e*.json
-Pickle/*.pickle
+Data/entity/
+Pickle/
