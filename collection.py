@@ -3,7 +3,7 @@ import os
 import pickle
 import requests
 import time
-from pprint import pprint
+# from pprint import pprint
 from sys import exit
 
 minSleep = 0.5
@@ -60,7 +60,7 @@ def collector():
 
     entID = None  # entity ID
     count = 0
-    maxCollect = 7000
+    maxCollect = 330000
     baseURL = 'https://littlesis.org/api/entities/'
     params = {'details': 'TRUE'}
 
@@ -86,7 +86,7 @@ def collector():
             
             if resp.status_code == 200:
                 d = resp.json()['data']['attributes']
-                data[d['name']] = d
+                data[d['id']] = d
                 count += 1
                 print(count, entID)
 
@@ -101,7 +101,7 @@ def collector():
 
         entID += 1
 
-        if count % 100 == 0 and data:  # write after every 100 entities
+        if count % 500 == 0 and data:  # write after every 100 entities
             with open(os.getcwd() + '\\Data\\entity\\entity' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)   
 
