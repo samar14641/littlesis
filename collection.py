@@ -59,19 +59,19 @@ def collector():
     startTime = time.time()
 
     entID = None  # entity ID
-    count = 0
-    maxCollect = 330000
+    count = 0  # count of entities collected
+    maxCollect = 330000  # max number of entities to collect
     baseURL = 'https://littlesis.org/api/entities/'
     params = {'details': 'TRUE'}
 
     data = {}
-    excpt = set()
-    notOk = set()
+    excpt = set()  # to log exceptions
+    notOk = set()  # to log HTTP errors
 
     currentFile = 1
 
     with open(os.getcwd() + '\\Pickle\\entID.pickle', 'rb') as pckl:
-        entID = pickle.load(pckl)
+        entID = pickle.load(pckl)  # load entID to start from
 
     if entID is None:
         print('entity ID is None, aborting')
@@ -90,7 +90,7 @@ def collector():
                 count += 1
                 print(count, entID)
 
-            else: 
+            else:  # some HTTP error i.e. status NOT 200
                 print(entID, 'NOT OK', resp.status_code)
                 notOk.add((entID, resp.status_code))  # log entID and resp code
 
@@ -101,7 +101,7 @@ def collector():
 
         entID += 1
 
-        if count % 500 == 0 and data:  # write after every 100 entities
+        if count % 500 == 0 and data:  # write after every 500 entities
             with open(os.getcwd() + '\\Data\\entity\\entity' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)   
 
