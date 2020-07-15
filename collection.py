@@ -50,7 +50,7 @@ def simpleIterativeCollect():
         json.dump(data, f, ensure_ascii = False, indent = 4)
 
 def collectorInit():
-    entID = 345730
+    entID = 345793
 
     with open(os.getcwd() + '\\Pickle\\entID.pickle', 'wb') as pckl:
         pickle.dump(entID, pckl, pickle.HIGHEST_PROTOCOL)
