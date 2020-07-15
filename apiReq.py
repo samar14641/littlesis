@@ -9,7 +9,7 @@ minSleep = 0.5
 
 def basicRequests():
     baseURL = 'https://littlesis.org/api/'
-    entID = str(1)
+    entID = str(380711)
     relID = str(1)
 
     # /entities/:id?details=TRUE

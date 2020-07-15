@@ -50,7 +50,7 @@ def simpleIterativeCollect():
         json.dump(data, f, ensure_ascii = False, indent = 4)
 
 def collectorInit():
-    entID = 1
+    entID = 345730
 
     with open(os.getcwd() + '\\Pickle\\entID.pickle', 'wb') as pckl:
         pickle.dump(entID, pckl, pickle.HIGHEST_PROTOCOL)
@@ -68,7 +68,7 @@ def collector():
     excpt = set()  # to log exceptions
     notOk = set()  # to log HTTP errors
 
-    currentFile = 1
+    currentFile = 661
 
     with open(os.getcwd() + '\\Pickle\\entID.pickle', 'rb') as pckl:
         entID = pickle.load(pckl)  # load entID to start from
@@ -122,7 +122,10 @@ def collector():
         t2 = time.time()
 
         if t2 - t1 < minSleep:
-            time.sleep(minSleep - (t2 - t1))    
+            time.sleep(minSleep - (t2 - t1))  
+
+        if entID == 380711:  # 380710 is the last entID as of 2020-07-14T20:00
+            break  
 
     # pprint(notOk)  
 
