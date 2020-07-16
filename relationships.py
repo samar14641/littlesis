@@ -82,6 +82,9 @@ def collector():
         if t2 - t1 < minSleep:
             time.sleep(minSleep - (t2 - t1))  
 
+        if relID == 1696781:
+            break 
+
     # pprint(notOk)  
 
     if data:  # write remaining data if any
