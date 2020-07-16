@@ -5,3 +5,7 @@ Data collection and management from LittleSis.
 
 
 apiReq.py is only to try these APIs
+
+collection.py is to collect entities
+
+relationships.py is to collect relationships
