@@ -11,7 +11,7 @@ minSleep = 0.5
 def relInit():
     relID = 1
 
-    with open(os.getcwd() + '\\Pickle\\relID.pickle', 'wb') as pckl:
+    with open(os.getcwd() + '/Pickle/relID.pickle', 'wb') as pckl:
         pickle.dump(relID, pckl, pickle.HIGHEST_PROTOCOL)
 
 def collector():
@@ -28,7 +28,7 @@ def collector():
 
     currentFile = 1
 
-    with open(os.getcwd() + '\\Pickle\\relID.pickle', 'rb') as pckl:
+    with open(os.getcwd() + '/Pickle/relID.pickle', 'rb') as pckl:
         relID = pickle.load(pckl)  # load relID to start from
 
     if relID is None:
@@ -60,7 +60,7 @@ def collector():
         relID += 1
 
         if count % 500 == 0 and data:  # write after every 500 relationships
-            with open(os.getcwd() + '\\Data\\relationship\\relationship' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
+            with open(os.getcwd() + '/Data/relationship/relationship' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)   
 
             data = {} 
@@ -70,7 +70,7 @@ def collector():
             currentFile += 1
         
         if count % 500 == 0 and len(notOk) > 0:  # write notOk log if any
-            with open(os.getcwd() + '\\Pickle\\notOk\\relationship_notOk' + str(currentFile - 1) + '.pickle', 'wb') as pckl:
+            with open(os.getcwd() + '/Pickle/notOk/relationship_notOk' + str(currentFile - 1) + '.pickle', 'wb') as pckl:
                 pickle.dump(notOk, pckl, pickle.HIGHEST_PROTOCOL)
 
             notOk = set()
@@ -88,13 +88,13 @@ def collector():
     # pprint(notOk)  
 
     if data:  # write remaining data if any
-        with open(os.getcwd() + '\\Data\\relationship\\relationship' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
+        with open(os.getcwd() + '/Data/relationship/relationship' + str(currentFile) + '.json', 'w', encoding = 'utf-8')  as f:
             json.dump(data, f, ensure_ascii = False, indent = 4)  
 
         print('written relationship' + str(currentFile))
         
     if notOk:  # write remaining notOk logs if any
-        with open(os.getcwd() + '\\Pickle\\notOk\\relationship_notOk' + str(currentFile) + '.pickle', 'wb') as pckl:
+        with open(os.getcwd() + '/Pickle/notOk/relationship_notOk' + str(currentFile) + '.pickle', 'wb') as pckl:
             pickle.dump(notOk, pckl, pickle.HIGHEST_PROTOCOL)
 
         print('written relationship_notOk' + str(currentFile))
