@@ -19,7 +19,7 @@ def collector():
 
     relID = None  # relationship ID
     count = 0  # count of relationships collected
-    maxCollect = 100  # max number of relationships to collect
+    maxCollect = 1696780  # max number of relationships to collect, as of 2020-07-16T11:40 there are 1,696,780 relationships
     baseURL = 'https://littlesis.org/api/relationships/'
 
     data = {}
