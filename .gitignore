@@ -1,7 +1,8 @@
 # Data/entity/
 # Pickle/
+Data/entity/*.json
 Data/relationship/*.json
 .ipynb_ch*
-relationshipParse.ipynb
+# *.ipynb
 parser.py
 all_rels.pkl
