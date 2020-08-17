@@ -3,6 +3,5 @@
 Data/entity/*.json
 Data/relationship/*.json
 .ipynb_ch*
-# *.ipynb
 parser.py
-all_rels.pkl
+all_*.pkl
