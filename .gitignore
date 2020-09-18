@@ -1,5 +1,7 @@
 Data/entity/*.json
 Data/relationship/*.json
+Data/grants_2018.csv
+grants.ipynb
 .ipynb_ch*
 clipboard.txt
 all_*.pkl
