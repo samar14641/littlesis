@@ -1,7 +1,6 @@
 Data/entity/*.json
 Data/relationship/*.json
 Data/grants_2018.csv
-entityMatching.ipynb
 grants.ipynb
 samar-skele*
 .ipynb_ch*
